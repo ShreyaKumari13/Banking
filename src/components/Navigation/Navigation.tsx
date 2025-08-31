@@ -140,7 +140,7 @@ const Navigation: React.FC = () => {
         <MainNavSection>
           <LogoSection>
             <img 
-              src="/images/logomark.png" 
+              src="/images/Logomark.png" 
               alt="Untitled UI Logo" 
               width={24} 
               height={24}
